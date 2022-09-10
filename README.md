@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/lone_walker_056" target="blank"><img src="https://img.shields.io/twitter/follow/lone_walker_056?logo=twitter&style=for-the-badge" alt="lone_walker_056" /></a> </p>
 
-- 🔭 I’m currently working at [CACLD](https://cacld.co.in/)
+- 🔭 I’m currently working at [SchoolingTimes](https://www.schoolingtimes.com/)
 
 - 🌱 I’m currently learning **MERN stack Next.js, three.js, web3.js, ethers.js and core blockchain stuff**
 
