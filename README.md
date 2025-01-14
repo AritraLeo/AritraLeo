@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/lone_walker_056" target="blank"><img src="https://img.shields.io/twitter/follow/lone_walker_056?logo=twitter&style=for-the-badge" alt="lone_walker_056" /></a> </p>
 
-- 🔭 I was a Backend Develoepr at [Seequenze Technologies](https://www.seequenze.com/) and [Necleo (Now Plat UI)](https://platui.com/)
+- 🔭 I was a Full Stack Engineer at [Attack Capital(YC W22](https://attack.capital/) Backend Develoepr at [Seequenze Technologies](https://www.seequenze.com/) and [Necleo (Now Plat UI)](https://platui.com/)
 
-- 🌱 I’m currently learning **MERN stack Next.js, three.js, web3.js, ethers.js and core blockchain stuff**
+- 🌱 I’m currently learning **MERN stack Next.js, Java using Spring Boot, three.js, web3.js, ethers.js and core blockchain fundamentals**
 
-- 👯 I’m looking to collaborate on **projects requiring backend using PHP or Node.js**
+- 👯 I’m looking to collaborate on **projects requiring backend using Node.js & Typescript, interested in blockchain as always!**
 
-- 💬 Ask me about **Html5, Css, PHP, React, Node.js, NFTs, Smart contracts**
+- 💬 Ask me about **Html5, CSS, React, Next.js, Node.js, TS, NFTs, Smart contracts (Solidity & Ethereum), Consensus protocols**
 
 - 📫 How to reach me **aritra056@gmail.com**
 
